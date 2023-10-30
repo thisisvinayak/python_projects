@@ -1,1 +1,0 @@
-The Caesar cipher is an encryption technique that was used by Julius Caesar to send secret messages to his allies. It works by shifting the letters in the plaintext message by a certain number of positions, known as the “shift” or “key”. This py program replicates the same technique and encodes or decodes the desired texts/messages by using alphabets shifitng :)
